@@ -1,4 +1,5 @@
 # Bases des composants Lightning
+[Module original Trailhead](https://trailhead.salesforce.com/fr/modules/lex_dev_lc_basics)
 
 1. Avant de commencer (~ 10 min)
 2. Premiers pas avec les composants Lightning (~ 15 min)
