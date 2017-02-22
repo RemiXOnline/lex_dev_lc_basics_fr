@@ -1,5 +1,5 @@
 # Bases des composants Lightning
-[Module original Trailhead](https://trailhead.salesforce.com/fr/modules/lex_dev_lc_basics)
+Ce contenu reprend le [module original Trailhead](https://trailhead.salesforce.com/fr/modules/lex_dev_lc_basics) en le simplifiant et en améliorant sa traduction française.
 
 1. [Avant de commencer](units/01.md) (~ 10 min)
 2. [Premiers pas avec les composants Lightning](units/02.md) (~ 15 min)
